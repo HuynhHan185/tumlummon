@@ -1,0 +1,2 @@
+103, Lập trình Java, 3, C, 45, 4
+100, Lập trình Python, 3, A, 50, 3
